@@ -99,52 +99,53 @@ body {
     margin: auto;
 }
 .swiper-slide.two img{
-    width: 150px;
-    height:150px;
+    width: 140px;
+    height:140px;
 }
 .swiper-slide.two .bg1{
     position: absolute;
-    left: 40px;
+    left: 10%;
     top: 0;
 }
 .swiper-slide.two .bg2{
     position: absolute;
-    left: 260px;
+    left: 50%;
     top: 0;
 }
 .swiper-slide.two .bg3{
     position: absolute;
-    left: 40px;
-    top: 200px;
+    left: 10%;
+    top: 25%;
 }
 .swiper-slide.two .bg4{
     position: absolute;
-    left: 260px;
-    top: 200px;
+    left: 50%;
+    top: 25%;
 }
 .swiper-slide.two .bg10{
     position: absolute;
-    left:40px;
-    top: 400px;
+    left:10%;
+    top: 50%;
 }
 .swiper-slide.two .bg6{
     position: absolute;
-    left:260px;
-    top: 400px;
+    left:50%;
+    top: 50%;
 }
 .swiper-slide.two .bg9{
     position: absolute;
-    left:40px;
-    top: 582px;
+    left:10%;
+    top: 75%;
 }
 .swiper-slide.two .bg5{
     position: absolute;
-    left:260px;
-    top: 582px;
+    left:50%;
+    top: 75%;
 }
 .swiper-slide.two .bg8{
-    width: 280px;
-    height: 280px;
+    margin: auto;
+    width: 240px;
+    height: 240px;
     z-index: 8;
 }
 /*第三屏*/
