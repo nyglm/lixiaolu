@@ -72,6 +72,7 @@ body {
     height: 100%;
     position: absolute;
     top:-10%;
+    margin: auto;
 }
 .swiper-slide.one .h{
     width: 50%;
@@ -93,9 +94,13 @@ body {
     background-size: 100% 100%;
     position: relative;
 }
+.swiper-slide.two .top{
+    width: 80%;
+    margin: auto;
+}
 .swiper-slide.two img{
-    width: 165px;
-    height:165px;
+    width: 150px;
+    height:150px;
 }
 .swiper-slide.two .bg1{
     position: absolute;
@@ -159,6 +164,8 @@ body {
     position: relative;
 }
 .swiper-slide.four .top{
+    width: 80%;
+    margin: auto;
     position: absolute;
     top: 15%;
 }
@@ -170,6 +177,10 @@ body {
     background: url("../img/下载.gif");
     background-size: 100% 100%;
     position: relative;
+}
+.swiper-slide.five .top{
+    width: 80%;
+    margin: auto;
 }
 .swiper-slide.five .top .bg11{
     width: 300px;
